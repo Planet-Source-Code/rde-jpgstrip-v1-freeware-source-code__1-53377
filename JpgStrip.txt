@@ -1,0 +1,55 @@
+
+JpgStrip v1.0 Freeware - Requires VB5 runtime files not included.
+
+JpgStrip is a small utility that removes unnecessary information from
+JPEG files. This is useful for graphics that are going to be published
+to the web.
+
+It removes comments, and unused extra tags. This can greatly reduce
+the size of files. It does not decompress, and recompress the image,
+so there is no image quality loss.
+
+It works extremely well on Photoshop files that include thumbnails (it
+removes the thumbnails). It will remove Macintosh headers, extra bytes
+added to the end, and padding within the file.
+
+JpgStrip can make backups of the originals, renaming them with an 'OLD'
+extension (be warned - this will quickly eat up your hard disk space),
+or JpgStrip can permanently replace the original (there is no undo).
+
+JpgStrip can create a JS.LOG file in the affected folder. It contains
+details about the process, including any errors or problems.
+
+To install simply put the executable file in a new folder, and create
+a shortcut somewhere.
+
+JpgStrip is freeware, and includes VB5 sourcecode. It requires, but does
+not include the VB5 runtime files. They are available from many places on
+the web.
+
+You are welcome to use this program for your own personal or business needs.
+You may distribute this program freely, as long as you keep the original
+archive with all files intact.
+
+You may not charge to distribute this program, except a small fee for CD-ROM
+distribution. If you like this software, please drop me a line, or donate
+some coffee :) My email address is...
+
+davidc@qtm.net
+
+My source code is poorly documented. You may use parts of it in your own
+applications, but you can not claim the program as your own without making
+*substantial* changes to it.
+
+If you find a JPEG file that this program corrupts, please let me know,
+and emailing me the original (unprocessed) file would help.
+
+Licence : Freeware
+Système : Windows 95/98/Nt/2000 VB5 Runtime Files
+Auteur  : David Crowell
+
+http://www.qtm.net/~davidc
+
+JpgStrip v1.3 Freeware as exe:
+
+http://www.ksurf.net/~bermania/prog/dessin/jpgstrip.zip
